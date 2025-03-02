@@ -1,0 +1,8 @@
+version: 0.2 
+phases:
+	install:
+	runtime-version:
+		java: latest
+	build:
+		commands:
+			- mvn verify sonar:sonar -Dsonar.projectKey=fandhz_OPSv2 -Dsonar.organization=fandhz -Dsonar.host.url=https//sonarcloud.io -Dsonar.token=85e4d74317c5b717ddfbf4a8458b26494ef86d4a
