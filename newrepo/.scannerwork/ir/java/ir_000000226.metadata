@@ -1,0 +1,8 @@
+com.example.App#getUsersFromDatabase()Ljava/util/List;
+false
+759518ae0b99078567de4d1c246c689e
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+println java.io.PrintStream#println(Ljava/lang/String;)V

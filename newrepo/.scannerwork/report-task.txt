@@ -1,0 +1,7 @@
+organization=fandhz
+projectKey=fandhz_OPSv2
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63627
+dashboardUrl=https://sonarcloud.io/dashboard?id=fandhz_OPSv2
+ceTaskId=AZb2N9sGO2sI09jm6mpW
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZb2N9sGO2sI09jm6mpW

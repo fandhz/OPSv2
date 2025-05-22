@@ -1,0 +1,7 @@
+com.example.App#main([Ljava/lang/String;)V
+false
+1c8e185f46aafeba433c56dd4b1ecab0
+com.example.App#getUsersFromDatabase()Ljava/util/List;
+com.example.App#login(Ljava/lang/String;)V
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V

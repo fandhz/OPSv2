@@ -1,0 +1,9 @@
+Butler#welcome()V
+false
+59613b6139e81fbe43c6dbac48245fd8
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+!unknownMethod! !unknownMethod!
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+println java.io.PrintStream#println([C)V
